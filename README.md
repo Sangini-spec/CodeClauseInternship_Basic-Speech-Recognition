@@ -10,12 +10,6 @@ Python-Speech-Recognition
 This repository of basic examples on performing Speech Recognitionin Python using Google Speech Recognition Engine.
 
 
-The original article
--------------------------
-
-To see full article with explanation on source code from this repository **[Click here](https://kalebujordan.com/python-speech-recognition)**
-
-
 Getting started 🔧
 --------------------
 Firstly before we begin exploring the source code, you might wanna *clone* or *download* the repository
@@ -23,10 +17,10 @@ just as shown below;
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kalebu/Python-Speech-Recognition-
+$ git clone https://github.com/Sangini-spec/Basic-Speech-Recognition-
 
 # Go into the repository
-$ cd Python-Speech-Recognition-
+$ cd Basic-Speech-Recognition-
 ```
 
 ## Dependancies
